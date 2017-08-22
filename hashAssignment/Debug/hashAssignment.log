@@ -1,0 +1,7 @@
+﻿  hashAssignment.cpp
+c:\users\gabriel\documents\embedded systems development\2 semester\prog8130 - data structures and algorithms\assignment 4\assignment 4 working2\hashassignment\hashassignment\hashassignment.cpp(115): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+c:\users\gabriel\documents\embedded systems development\2 semester\prog8130 - data structures and algorithms\assignment 4\assignment 4 working2\hashassignment\hashassignment\hashassignment.cpp(131): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  hashAssignment.vcxproj -> C:\Users\Gabriel\Documents\Embedded Systems Development\2 Semester\PROG8130 - Data Structures and Algorithms\Assignment 4\Assignment 4 Working2\hashAssignment\Debug\hashAssignment.exe
+  hashAssignment.vcxproj -> C:\Users\Gabriel\Documents\Embedded Systems Development\2 Semester\PROG8130 - Data Structures and Algorithms\Assignment 4\Assignment 4 Working2\hashAssignment\Debug\hashAssignment.pdb (Full PDB)
